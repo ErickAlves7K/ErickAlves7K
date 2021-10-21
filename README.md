@@ -1,8 +1,8 @@
 ### Seja bem-vindo, eu sou o Erick Alves.
 <div align="center">
   <a href="https://github.com/ErickAlves7K">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ErickAlves7K&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAlves7K&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ErickAlves7K&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAlves7K&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!--
 **Anubis7K/Anubis7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
